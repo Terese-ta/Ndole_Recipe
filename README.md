@@ -1,0 +1,1 @@
+This repository is a project for introducing new developers to programming, using javaScript. It describes the procedure for prepare a Cameroonian delicacy called "ndole." The goal of the project is to show how an idea can become tangible using code.
